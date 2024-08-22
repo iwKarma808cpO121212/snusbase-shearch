@@ -467,7 +467,7 @@ def Br0w53r_5t341(): pass
 def R0b10x_C00ki3(): pass
 def F4k3_3rr0r(): pass
 def Sp4m_0p3n_Pr0gr4m(): pass
-def Shutd0wn(): pass
+
     
 def Clear():
     try:
